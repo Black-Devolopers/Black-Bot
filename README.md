@@ -1,2 +1,2 @@
-# Zeus-Bot
-Its is a best moderation , fun and utility bot . 
+# Black-Bot
+-   Its is a best moderation , fun and utility bot . 
