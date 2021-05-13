@@ -52,6 +52,7 @@ bot.on('message', async message => {
 
 
 });
+require('http').createServer((req, res) => res.end('Bot is alive!')).listen(3000)
 
 bot.login(TOKEN);
 
