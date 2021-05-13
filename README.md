@@ -4,9 +4,9 @@
 
 -   Its is a Discord Bot with 75+ commands . It has many useful commands in it
 
-###   WANA TO FORK
+###   WANA TO SELF HOISTED
 
-[![Run on Repl.it](https://replit.com/badge/github/Black-Devolopers/Black-Bot)](https://replit.com/@saivarshithsunn/BEST-MOD-AND-FUN-BOT)
+[![Run on Repl.it](https://replit.com/badge/github/Black-Devolopers/Black-Bot)](https://replit.com/@saivarshithsunn/Black-Bot)
 
 ## Categories 📑
 - [x] Fun
