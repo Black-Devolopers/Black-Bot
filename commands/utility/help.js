@@ -41,7 +41,7 @@ if(message.content.toLowerCase() === `${prefix}help`){
     .addField(` ** ❯ FUN [12]**`,"`kiss`,`hug`,`pat`,`zaglo`,`slap`,`smug`,`tickle`,`poke`,`binary`,`calculate`,`lovecal`,`meme`,`advice`,`scroll`")
     .addField(` ** ❯ IMAGE [8]**`,"`triggered`,`delete`,`rip`,`jail`,`captcha`,`wideavatar`,`toilet`,`wa`,`clyde`,`wasted`,`effect`,`tweet`,`minecraft`,`blur`,`beautiful`,`catsay`,`cowsay`,`fliptext`")
     .addField(` ** ❯ LINKS [2]**`,`   [Invite Me](https://discord.com/oauth2/authorize?client_id=831133255860093008&permissions=8&scope=bot)`+` - `+`[Support Server](https://discord.gg/Cyz93ptgat)`)
-    .setFooter("© Msv")
+    .setFooter("© Dark Devolopers")
     .setTimestamp()
 
 message.channel.send(log);
